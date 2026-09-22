@@ -2,7 +2,7 @@ import { StyleSheet, Text, View, Image, TextInput, TouchableOpacity } from 'reac
 import AntDesign from '@expo/vector-icons/AntDesign';
 import styles from './styles';
 
-export default function Header () {
+export default function Header() {
     return (
 
         <View style={styles.viewHeader}>

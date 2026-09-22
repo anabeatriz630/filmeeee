@@ -2,7 +2,7 @@ import { StyleSheet, Text, View, Image, TextInput, TouchableOpacity } from 'reac
 import Feather from '@expo/vector-icons/Feather';
 import styles from './styles';
 
-export default function Search () {
+export default function Search() {
     return (
 
         <View style = {styles.containerSearch}>

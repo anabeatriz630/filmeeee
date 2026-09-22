@@ -1,7 +1,7 @@
 import { Text, View, Image, TouchableOpacity } from 'react-native';
 import styles from './styles';
 
-export default function CardMovies ({ titulo, nota, imagem }) {
+export default function CardMovies({ titulo, nota, imagem }) {
     return (
 
         <TouchableOpacity style = {styles.containerJogos}>
